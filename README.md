@@ -1,4 +1,4 @@
-# the-colours
+# the-collors
 
 DEMO - [THE-COLLORS](https://sukhanovigorg.github.io/the-collors/)
 
