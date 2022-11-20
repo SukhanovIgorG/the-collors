@@ -1,6 +1,6 @@
 # the-colours
 
-DEMO - [THE-COLLORS](https://sukhanovigorg.github.io/the-colors/)
+DEMO - [THE-COLLORS](https://sukhanovigorg.github.io/the-collors/)
 
 ## Описание
   Приложение позволяет рандомно подобрать палитру цветов и отправить ее 
