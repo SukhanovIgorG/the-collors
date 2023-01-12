@@ -13,3 +13,4 @@ DEMO - [THE-COLLORS](https://sukhanovigorg.github.io/the-collors/)
 
 !only desktop
 Адаптация для мобильных устройств в ближайших апдейтах
+но это не точно
